@@ -5,6 +5,7 @@ Jieba分词。先获取xlsx文件的语料内容，然后再针对语料进行�
 开发者：沙振宇（沙师弟专栏） <BR/>
 创建时间：2019-12-2<BR/>
 最后一次更新时间：2019-12-5<BR/> 
+CSDN博客地址：https://shazhenyu.blog.csdn.net/article/details/103403711<BR/> 
 <BR/> 
 # 3、分词
 ## 3.1、分词——全模式 
