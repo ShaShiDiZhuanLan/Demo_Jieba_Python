@@ -39,4 +39,4 @@ sheet.cell_value(rown, coln)<BR/>
 s = [x.strip() for x in item_arr] <BR/>
 <BR/>
 # 运行效果 
-<BR/>
+![image](https://github.com/ShaShiDiZhuanLan/Demo_Jieba_Python/blob/master/%E6%95%88%E6%9E%9C.png)
